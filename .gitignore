@@ -60,3 +60,4 @@ StdPeriph_Driver*/
 .project
 LinkerScript.ld
 Radio Run.cfg
+.html
