@@ -53,6 +53,7 @@ Distributed under MIT license
 **Credits**
 
 Jakub Szczepaniak
+
 Paweł Świerczyński
 
 
