@@ -1,10 +1,14 @@
 Digital Radio
 
 Overview
+
 Radio receiver with manual frequency tuning and a command-driven interface.
 
+
 Description
+
 Digital Radio allows you to listen to radio stations, which are broadcasted in the VHF Band II (87.5 - 108.0 MHz). In order to set a desired frequency you have to either set it manually using a potentiometer and pressing the "User button" or use Hercules and enter the "s" command.
+
 
 List of commands
 s [frequency] - sets the desired frequency (eg. "s 103.9").
