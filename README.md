@@ -13,12 +13,14 @@ Digital Radio allows you to listen to radio stations, which are broadcasted in t
 **List of commands**
 
 s [frequency] - sets the desired frequency (eg. "s 103.9").
+
 f - shows the current frequency.
 
 
 **Tools**
 
 Hercules 3.2.8
+
 System Workbench for STM32
 
 
@@ -40,8 +42,11 @@ https://github.com/LonelyWolf/stm32/tree/master/tea5767
 **Components**
 
 Microntroller STM32F4 DISCOVERY
+
 Stereo radio module TEA5767
+
 Linear potentiometer
+
 Speakers/Headphones
 
 
